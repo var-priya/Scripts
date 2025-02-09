@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1739073582,,"wq"
+|2,0,1739075946,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,31 @@
 # Registers:
 
 # File marks:
-'0  8  22  ~/scripts.sh
-|4,48,8,22,1739073582,"~/scripts.sh"
+'0  1  17  ~/dev.txt
+|4,48,1,17,1739075946,"~/dev.txt"
+'1  8  22  ~/scripts.sh
+|4,49,8,22,1739073582,"~/scripts.sh"
 
 # Jumplist (newest first):
+-'  1  17  ~/dev.txt
+|4,39,1,17,1739075946,"~/dev.txt"
+-'  8  22  ~/scripts.sh
+|4,39,8,22,1739073582,"~/scripts.sh"
 -'  8  22  ~/scripts.sh
 |4,39,8,22,1739073582,"~/scripts.sh"
 -'  1  0  ~/scripts.sh
 |4,39,1,0,1739073541,"~/scripts.sh"
+-'  1  0  ~/scripts.sh
+|4,39,1,0,1739073541,"~/scripts.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/dev.txt
+	*	1739075944	0
+	"	1	17
+	^	1	18
+	.	1	16
+	+	1	16
 
 > ~/scripts.sh
 	*	1739073579	0
