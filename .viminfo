@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1739075946,,"wq"
+|2,0,1739078552,,"wq"
+:wq4
+|2,0,1739078545,,"wq4"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +27,47 @@
 # Registers:
 
 # File marks:
-'0  1  17  ~/dev.txt
-|4,48,1,17,1739075946,"~/dev.txt"
-'1  8  22  ~/scripts.sh
-|4,49,8,22,1739073582,"~/scripts.sh"
+'0  3  16  ~/Piyanka.txt
+|4,48,3,16,1739078552,"~/Piyanka.txt"
+'1  1  17  ~/dev.txt
+|4,49,1,17,1739075946,"~/dev.txt"
+'2  8  22  ~/scripts.sh
+|4,50,8,22,1739073582,"~/scripts.sh"
 
 # Jumplist (newest first):
+-'  3  16  ~/Piyanka.txt
+|4,39,3,16,1739078552,"~/Piyanka.txt"
+-'  1  0  ~/Piyanka.txt
+|4,39,1,0,1739078530,"~/Piyanka.txt"
+-'  1  17  ~/dev.txt
+|4,39,1,17,1739075946,"~/dev.txt"
 -'  1  17  ~/dev.txt
 |4,39,1,17,1739075946,"~/dev.txt"
 -'  8  22  ~/scripts.sh
 |4,39,8,22,1739073582,"~/scripts.sh"
 -'  8  22  ~/scripts.sh
 |4,39,8,22,1739073582,"~/scripts.sh"
+-'  8  22  ~/scripts.sh
+|4,39,8,22,1739073582,"~/scripts.sh"
+-'  8  22  ~/scripts.sh
+|4,39,8,22,1739073582,"~/scripts.sh"
+-'  1  0  ~/scripts.sh
+|4,39,1,0,1739073541,"~/scripts.sh"
+-'  1  0  ~/scripts.sh
+|4,39,1,0,1739073541,"~/scripts.sh"
 -'  1  0  ~/scripts.sh
 |4,39,1,0,1739073541,"~/scripts.sh"
 -'  1  0  ~/scripts.sh
 |4,39,1,0,1739073541,"~/scripts.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/Piyanka.txt
+	*	1739078550	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	3	16
 
 > ~/dev.txt
 	*	1739075944	0
